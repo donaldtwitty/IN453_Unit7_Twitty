@@ -1,0 +1,47 @@
+[
+  {
+    "size": 10,
+    "algorithm": "Bubble",
+    "ms": 0.031
+  },
+  {
+    "size": 10,
+    "algorithm": "BubbleOptimized",
+    "ms": 0.045
+  },
+  {
+    "size": 10,
+    "algorithm": "QuickSort",
+    "ms": 0.118
+  },
+  {
+    "size": 1000,
+    "algorithm": "Bubble",
+    "ms": 2.554
+  },
+  {
+    "size": 1000,
+    "algorithm": "BubbleOptimized",
+    "ms": 2.275
+  },
+  {
+    "size": 1000,
+    "algorithm": "QuickSort",
+    "ms": 1.704
+  },
+  {
+    "size": 10000,
+    "algorithm": "Bubble",
+    "ms": 133.884
+  },
+  {
+    "size": 10000,
+    "algorithm": "BubbleOptimized",
+    "ms": 152.668
+  },
+  {
+    "size": 10000,
+    "algorithm": "QuickSort",
+    "ms": 0.864
+  }
+]

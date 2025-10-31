@@ -1,0 +1,10 @@
+size,algorithm,ms
+10,Bubble,0.031
+10,BubbleOptimized,0.045
+10,QuickSort,0.118
+1000,Bubble,2.554
+1000,BubbleOptimized,2.275
+1000,QuickSort,1.704
+10000,Bubble,133.884
+10000,BubbleOptimized,152.668
+10000,QuickSort,0.864

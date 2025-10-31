@@ -1,0 +1,12 @@
+{
+  "name": "unit7-benchmarking-js-twitty",
+  "version": "1.0.0",
+  "description": "Unit 7 Assignment: Benchmarking internal sorting algorithms (Bubble vs Optimized Bubble vs Quicksort)",
+  "main": "benchmark.js",
+  "scripts": {
+    "start": "node benchmark.js",
+    "benchmark": "node benchmark.js"
+  },
+  "author": "Donald C. Twitty Jr.",
+  "license": "MIT"
+}
